@@ -124,18 +124,5 @@ h3{
     color: #ca5892;
 }
  
-@media only screen and (max-width : 500px){
-    .list{
-        display: flex;
-        justify-content: flex-start;
-        font-size: small;
-        gap: 25px;
-    }
-   .download-box{
-    justify-content: center;
-    margin-left: 100px;
-   }
 
-}
-   
    
